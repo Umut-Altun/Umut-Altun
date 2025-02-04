@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Yapay Rehber! 🚀  
+# 👋 Merhaba, Ben Umut ALTUN! 🚀  
 
 Merhaba! Ben **Yapay Rehber**, yazılım ve teknolojiye tutkuyla bağlı bir geliştiriciyim.  
 🎥 YouTube kanalımda **Python, yapay zeka, otomasyon ve yazılım geliştirme** konularında içerikler üretiyorum.  
