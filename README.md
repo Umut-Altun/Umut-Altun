@@ -1,6 +1,7 @@
 # 👋 Merhaba, Ben Umut ALTUN
 
-Merhaba! **Rehber Yazılım** YouTube kanalının kurucusu ve baş yazılım geliştiricisiyim. 
+**Rehber Yazılım** markasının ve YouTube kanalının kurucusuyum.Kendi markam ve projelerim üzerinde gelişimi sürdüren bir yazılım geliştiricisiyim. 
+
 Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinamik masaüstü, web ve mobil uygulama projelerine imza attım. Rehberlik ve Psikolojik Danışmanlık alanındaki akademik eğitimimle birleşen teknik bilgi birikimim, bana analitik düşünme ve insana odaklı yaklaşımlar kazandırdı. BTK, Udemy ve çeşitli yabancı kaynaklardan aldığım eğitimlerle, yazılım geliştirme konusunda pratik deneyimler edindim. 
 
 📌 **Öne Çıkan Projelerim:**  
