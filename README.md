@@ -18,7 +18,7 @@ Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinami
 - 🐍 **Python** ile masaüstü ve web otomasyon projeleri geliştiriyorum.  
 - 💻 **PyQt5 & Kivy** kullanarak mobil ve masaüstü uygulamalar tasarlıyorum.  
 - 🤖 **Selenium & Web Scraping** ile veri toplama ve otomasyon projeleri yapıyorum.  
-- 🤖 **Django & Html-css-js** web tabanlı siteler ve uygulamalar yapıyorum.  
+- 🤖 **Django & Html-Css-Js** web tabanlı siteler ve uygulamalar yapıyorum.  
 - 📊 **MySQL & SQLite & PostgreSQL** ile veri tabanı yönetimi ve analiz üzerine çalışıyorum.  
 
 ---
@@ -28,6 +28,10 @@ Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinami
 - 📱 **Kotlin:** Android uygulama geliştirme konusunda kendimi geliştiriyorum.  
 - 🎨 **Android UI/UX:** Uygulama tasarım ve kod alanında deneyim kazanıyorum.  
 - 🌍 **Yeni Teknolojiler:** Yazılım dünyasındaki yenilikleri yakından takip ediyorum.  
+- ⚛️ **React.js:** Web arayüzleri oluşturmak için modern, bileşen tabanlı yapıları öğreniyorum.
+- 💨 **Tailwind CSS:** Hızlı ve esnek tasarımlar yapabilmek için utility-first CSS yapısıyla çalışıyorum.
+- 🖥️ **Node.js:** JavaScript ile sunucu tarafı programlama üzerine kendimi geliştiriyorum.
+- 🌐 **Express.js:** API geliştirme ve sunucu yönetimini sadeleştirmek için Express framework’ü kullanıyorum. 
 
 ---
 
@@ -41,7 +45,7 @@ Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinami
 ## 📬 Benimle İletişime Geçin!  
 
 🔗 **GitHub:** [github.com/Umut-Altun](https://github.com/Umut-Altun)  
-💼 **LinkedIn:** [linkedin.com/in/YapayRehber](https://linkedin.com/in/YapayRehber)  
+💼 **LinkedIn:** [linkedin.com/in/YapayRehber](https://linkedin.com/in/umut-altun)  
 
 🚀 Açık kaynak projelere katkıda bulunmaktan ve yeni projeler geliştirmekten keyif alıyorum.  
 Eğer işbirliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin! 💡  
