@@ -1,10 +1,10 @@
-# 👋 Merhaba, Ben Umut ALTUN! 🚀  
+# 👋 Merhaba, Ben Umut ALTUN
 
 Merhaba! Ben **Yapay Rehber**, yazılım ve teknolojiye tutkuyla bağlı bir geliştiriciyim.  
 🎥 YouTube kanalımda **Python, yapay zeka, otomasyon ve yazılım geliştirme** konularında içerikler üretiyorum.  
 
 📌 **Öne Çıkan Projelerim:**  
-🔹 **[Proje 1](#)** - Açıklama  
+🔹 **[Edu Platform](https://github.com/Umut-Altun/EduPlatform.git)** - Modern eğitim ihtiyaçlarına yanıt verecek şekilde tasarladığımız bu çevrimiçi platform; öğrenciler, eğitmenler ve akademisyenler için güçlü bir dijital öğrenme ortamı sunuyor.  
 🔹 **[Proje 2](#)** - Açıklama  
 🔹 **[Proje 3](#)** - Açıklama  
 
