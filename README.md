@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Umut ALTUN
 
-Merhaba! Ben **Yapay Rehber**, yazılım ve teknolojiye tutkuyla bağlı bir geliştiriciyim.  
-🎥 YouTube kanalımda **Python, yapay zeka, otomasyon ve yazılım geliştirme** konularında içerikler üretiyorum.  
+Merhaba! **Rehber Yazılım** YouTube kanalının kurucusu ve baş yazılım geliştiricisiyim. 
+Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinamik masaüstü, web ve mobil uygulama projelerine imza attım. Rehberlik ve Psikolojik Danışmanlık alanındaki akademik eğitimimle birleşen teknik bilgi birikimim, bana analitik düşünme ve insana odaklı yaklaşımlar kazandırdı. BTK, Udemy ve çeşitli yabancı kaynaklardan aldığım eğitimlerle, yazılım geliştirme konusunda pratik deneyimler edindim. 
 
 📌 **Öne Çıkan Projelerim:**  
 🔹 **[Edu Platform](https://github.com/Umut-Altun/EduPlatform.git)** - Modern eğitim ihtiyaçlarına yanıt verecek şekilde tasarladığımız bu çevrimiçi platform; öğrenciler, eğitmenler ve akademisyenler için güçlü bir dijital öğrenme ortamı sunuyor. 
@@ -17,7 +17,8 @@ Merhaba! Ben **Yapay Rehber**, yazılım ve teknolojiye tutkuyla bağlı bir gel
 - 🐍 **Python** ile masaüstü ve web otomasyon projeleri geliştiriyorum.  
 - 💻 **PyQt5 & Kivy** kullanarak mobil ve masaüstü uygulamalar tasarlıyorum.  
 - 🤖 **Selenium & Web Scraping** ile veri toplama ve otomasyon projeleri yapıyorum.  
-- 📊 **MySQL & SQL Server** ile veri tabanı yönetimi ve analiz üzerine çalışıyorum.  
+- 🤖 **Django & Html-css-js** web tabanlı siteler ve uygulamalar yapıyorum.  
+- 📊 **MySQL & SQLite & PostgreSQL** ile veri tabanı yönetimi ve analiz üzerine çalışıyorum.  
 
 ---
 
