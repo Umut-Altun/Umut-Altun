@@ -45,7 +45,7 @@ Yaklaşık 4 yıldır Python dünyasında kendimi sürekli geliştirerek, dinami
 ## 📬 Benimle İletişime Geçin!  
 
 🔗 **GitHub:** [github.com/Umut-Altun](https://github.com/Umut-Altun)  
-💼 **LinkedIn:** [linkedin.com/in/umut-altun/]([https://linkedin.com/in/umut-altun](https://www.linkedin.com/in/umut-altun-bb4918284/))  
+💼 **LinkedIn:** [www.linkedin.com/in/umut-altun-bb4918284/]([https://linkedin.com/in/umut-altun](https://www.linkedin.com/in/umut-altun-bb4918284/))  
 
 🚀 Açık kaynak projelere katkıda bulunmaktan ve yeni projeler geliştirmekten keyif alıyorum.  
 Eğer işbirliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin! 💡  
