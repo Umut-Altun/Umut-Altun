@@ -5,8 +5,8 @@ Merhaba! Ben **Yapay Rehber**, yazılım ve teknolojiye tutkuyla bağlı bir gel
 
 📌 **Öne Çıkan Projelerim:**  
 🔹 **[Edu Platform](https://github.com/Umut-Altun/EduPlatform.git)** - Modern eğitim ihtiyaçlarına yanıt verecek şekilde tasarladığımız bu çevrimiçi platform; öğrenciler, eğitmenler ve akademisyenler için güçlü bir dijital öğrenme ortamı sunuyor.  
-🔹 **[Proje 2](#)** - Açıklama  
-🔹 **[Proje 3](#)** - Açıklama  
+🔹 **[Rehber POS](https://github.com/Umut-Altun/rehberadisyon.git)** - RehberPOS adisyon sistemleri, işletmenizi verimli bir şekilde yönetmeniz için ihtiyacınız olan her şeyi sunan web tabanlı bir hizmet sunuyor.
+🔹 **[Salonium](https://github.com/Umut-Altun/berberbook.git)** - Randevu yönetimi, online ödeme, satış takibi, raporlama ve daha fazlasıyla kuaför ve berber salonları için eksiksiz bir dijital çözüm sunuyor.  
 
 ---
 
